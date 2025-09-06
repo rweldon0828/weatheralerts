@@ -42,7 +42,7 @@ sensor:
     ## Uncomment and set (optional) 'county' to your county number for the county feed you want to use
     ## The scan_interval is the length of time (in seconds) between alert feed checks (default is 30 seconds)
     state: MD
-    zone: MDC003
+    zone: 003
 #    county: 87
     scan_interval: 10
 
