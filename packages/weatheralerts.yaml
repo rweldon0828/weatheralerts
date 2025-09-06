@@ -41,10 +41,10 @@ sensor:
     ## Set (required) 'zone' to your zone number for the zone feed you want to use
     ## Uncomment and set (optional) 'county' to your county number for the county feed you want to use
     ## The scan_interval is the length of time (in seconds) between alert feed checks (default is 30 seconds)
-    state: WI
-    zone: 38
+    state: MD
+    zone: MDC003
 #    county: 87
-    scan_interval: 30
+    scan_interval: 10
 
 ## Uncomment platform, state, zone, (and county if needed) and scan_interval
 ## below to add another platform configuration to monitor alerts for an
